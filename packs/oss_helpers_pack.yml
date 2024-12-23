@@ -1,0 +1,7 @@
+AnalysisType: pack
+PackID: Custom.PantherOSSHelpersFork
+Description: The Panther OSS Helper forked from v3.66.0 of panther-labs/panther-analysis
+PackDefinition:
+  IDs:
+    - panther_oss_helpers
+DisplayName: "panther_oss_helpers fork from panther-analysis"
