@@ -1,5 +1,5 @@
 """Utility functions provided to policies and rules during execution."""
-
+#custom function
 import json
 import os
 import re
